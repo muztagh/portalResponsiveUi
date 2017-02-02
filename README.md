@@ -1,4 +1,5 @@
 # Georgian College SharePoint 2013/2016 Responsive UI #
+
 This is the Georgian College implementation of the  Responsive UI for a 
 Site Collection in Microsoft SharePoint 2013/2016 on-premises.
 The solution leverages some JavaScript embedding and CSS overriding, 
